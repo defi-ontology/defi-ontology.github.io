@@ -1,37 +1,3 @@
-## Welcome to GitHub Pages
+## DeFi Ontology
 
-You can use the [editor on GitHub](https://github.com/defi-ontology/defi-ontology.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/defi-ontology/defi-ontology.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Decentralized Finance (DeFi) is gaining momentum in blockchain-based financial ecosystems. While traditional or Centralized Finance (CeFi) is primarily regulated, DeFi is still in its infancy. DeFi offers financial services and products as blockchain-based smart contracts, which provides the possibility of creating complex financial products and embedding them in new governance models. However, this nascent space involves risks that have not yet been fully understood and could have unforeseeable systemic consequences. As in many disruptive technologies, DeFi tends to follow the path of technology push rather than market pull. This paper describes a comprehensive ontology titled the "DeFi Ontology" and the "DeFi Knowledge Graph" comprising over 6000 DeFi products and over 30 of their features to characterize this nascent space. Using the resources we developed, we achieve a computational mechanism to query the available resources on DeFi products and compare DeFi products against each other and various metrics relevant to novice enthusiasts and seasoned crypto investors. 
