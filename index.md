@@ -7,3 +7,5 @@ Decentralized Finance (DeFi) is gaining momentum in blockchain-based financial e
 * [Tokens](ontologies/Tokens.owl)
 * [DeFiApplications](ontologies/DeFiApplications.owl)
 * [DeadCoins](ontologies/DeadCoins.owl)
+
+<script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>
