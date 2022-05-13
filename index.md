@@ -1,4 +1,4 @@
-# DeFi Ontology
+<!-- # DeFi Ontology -->
 
 Decentralized Finance (DeFi) is gaining momentum in blockchain-based financial ecosystems. While traditional or Centralized Finance (CeFi) is primarily regulated, DeFi is still in its infancy. DeFi offers financial services and products as blockchain-based smart contracts, which provides the possibility of creating complex financial products and embedding them in new governance models. However, this nascent space involves risks that have not yet been fully understood and could have unforeseeable systemic consequences. As in many disruptive technologies, DeFi tends to follow the path of technology push rather than market pull. This paper describes a comprehensive ontology titled the "DeFi Ontology" and the "DeFi Knowledge Graph" comprising over 6000 DeFi products and over 30 of their features to characterize this nascent space. Using the resources we developed, we achieve a computational mechanism to query the available resources on DeFi products and compare DeFi products against each other and various metrics relevant to novice enthusiasts and seasoned crypto investors. 
 
